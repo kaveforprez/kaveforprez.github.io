@@ -155,8 +155,6 @@ Bail in the form of money should not be allowed to exceed what the defendant can
 
 
 
-
-
 ### Foreign policy and the military
 
 Sometimes nothing in the world seems to function so much like a [zero-sum game](https://simple.wikipedia.org/wiki/Zero-sum_game) as does international politics, where there is no overseer or global authority with true power, and each nation justifies its actions as self-interest. In order to effectively maintain relations with the world in this complex environment, we should always strive to maintain and build our status as a model nation, both during war and peace.
