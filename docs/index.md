@@ -111,6 +111,13 @@ This action will help to curb the unethical inequalities in our society, infuse 
 In order to qualify for universal income, all adults should complete one year of civil service. Each person would be able to choose from things like military service, AmeriCorps and other infrastructure projects, Peace Corps and other foreign aid projects, and social services. In addition to providing a work-force for needed civil projects, this will give citizens job skills and foster healthy patriotism through a sense of national community.
 
 
+
+### Justice for Native Americans
+
+Build a program of Native American stewardship of National Parks and other lands, with special living rights and obligations of stewardship. As part of this program establish education programs to share knowledge about land stewardship with Native Americans that they lost due to cultural genocide.
+
+
+
 ### Education
 
 Decouple property taxes from public education funding. Each district should receive the same resources, proportional to their population. On top of that, special funding should be awarded to under-performing districts, along with personnel resources to utilize this funding.
