@@ -42,13 +42,13 @@ This one is pretty simple, and it answers the question of how we plan to fund an
 
 Everyone agrees that rich people should pay more taxes... except rich people. The problem is, they have more power in our system. This is simply unacceptable and our system should be reformed enough that it becomes possible to levy more taxes on the richest Americans. The above-mentioned election reform aims to do this.
 
-As an example of how taxing the rich can benefit society, a small tax increase on the wealthiest Americans could fund universal health care, but rich people general succeed in lobbying politicians to prevent this, so the burden of funding these social programs falls on many middle-class Americans, making the program undesirable to the general public. There is no excuse for this. Tax the rich.
+As an example of how taxing the rich can benefit society, a small tax increase on the wealthiest Americans could fund universal health care, but rich people generally succeed in lobbying politicians to prevent this, so the burden of funding these social programs falls on many middle-class Americans, making the program undesirable to the general public. There is no excuse for this. Tax the rich.
 
 
 
 ### Personal privacy
 
-### Data collection
+#### Data collection
 
 We need legislation to curb the amount of data the government collects on citizens, and to delete data collected in the past. "[Big data hubris](https://www.forbes.com/sites/stevensalzberg/2014/03/23/why-google-flu-is-a-failure/#2068e7b15535)" (the implicit assumption that big data are a substitute for, rather than a supplement to, traditional data collection and analysis), is not an acceptable justification for these actions, and we need to call upon our national security agencies to strive for better methods to achieve their goals.
 
@@ -87,7 +87,7 @@ Stereotypically speaking, the democratic party supports rights for minorities an
 
 ### Farming subsidies
 
-Farming subsidies that incentivize the growth of more corn should be removed and replaced with subsidies that protect farmers in times of scarcity.
+Farming subsidies that incentivize the growth of more corn should be removed and replaced with subsidies that protect farmers in times of low demand.
 
 Subsidies and tax breaks should be used to incentivize small scale, non-industrialized farming. The goals of this effort are to make our food supply more healthy and sustainable, and to reduce unemployment.
 
@@ -130,7 +130,7 @@ Fire police officers for sufficient misconduct and ban them from all departments
 
 ### Prison system
 
-Ban privatized prisons. All prisons should be government-run. There is no ethical reason to making a business out of putting people in chains.
+Ban privatized prisons. All prisons should be government-run. There is no ethical reason to make a business out of putting people in chains.
 
 Increase the funding of social services within prisons. The goal of prisons should be to rehabilitate all prisoners, not to be an incubator for producing hardened criminals.
 
