@@ -92,12 +92,22 @@ Farming subsidies that incentivize the growth of more corn should be removed and
 Subsidies and tax breaks should be used to incentivize small scale, non-industrialized farming. The goals of this effort are to make our food supply more healthy and sustainable, and to reduce unemployment.
 
 
+### Health and the environment
 
-### Universal healthcare
+#### Universal healthcare
 
 We need a [public option](https://en.wikipedia.org/wiki/Public_health_insurance_option), which is a federally managed insurance plan, which is not subsidized by the government. This will create the competition needed to drive down the costs of health care. The only reason we don't have this is the corruption of special interests like insurance companies.
 
 If the creation of a public option is not enough to bring health insurance to everyone, medicaid should be expanded until we achieve 100% coverage.
+
+#### Water
+
+Universal access to potable water is a priority. The fact that [certain communities are now losing this access](https://en.wikipedia.org/wiki/Flint_water_crisis) is a true mark of declining quality of life in the US. If local jurisdictions cannot or will not put in the resources and effort to ensure continued access to potable water by their constituents, the federal government should step in to fix this problem and set them back on the right course.
+
+#### Plastics
+
+Our society needs to phase out the use of single-use plastics. The role of the federal government in this effort is two-fold. Most importantly, we need to [remove subsidies for oil](#Limit subsidies on oil, fund renewable energy initiatives instead). This will increase the cost of producing plastics, which is tied to the cost of oil and natural gas. This is the most important step. As a secondary step, we should use some of that money to fund research in biodegradable alternatives, in order to bring down their cost to be economically competitive with plastics. This two-step process will make single-use plastics unfavorable to businesses and consumers, thus eliminating the problem of plastic waste pollution. The case of plastics is a great example of how attacking the source of the problem (plastic production) is far more effective than attacking the symptom (plastic patches in the oceans).
+
 
 
 ### Universal income
@@ -123,6 +133,16 @@ Build a program of Native American stewardship of National Parks and other lands
 Decouple property taxes from public education funding. Each district should receive the same resources, proportional to their population. On top of that, special funding should be awarded to under-performing districts, along with personnel resources to utilize this funding.
 
 Pay public school teachers more (not administrators).
+
+
+
+### Gun control
+
+We need background checks for all gun sales - no exceptions. We need a ban on assault weapons for civilians, and a buy-back program.
+
+In other words, we support individual gun rights and the 2nd amendment, as long as the individual is not a threat to society, and the gun is not designed specifically to murder humans.
+
+The question can be asked: how can civilian gun ownership limit the threat of a military coup if only the military is allowed to posses military-grade weapons? Our answer comes in the form of a risk assessment of each alternative, with two parts. 1) What if the political situation in the US became so bad that civilian militias needed to defend the constitution against the US military? First of all, this seems extremely unlikely, but in the event this happens, we think the difference between civilian militias either having or not having assault rifles is extremely unlikely to affect the outcome. This is because either the military's expertise and access to a slew of other weapons (tanks, bombs, fighter jets, etc) would far outweigh any power of civilian militias, or the size of the militia in a truly united defense would deter the military. Furthermore, the political context of 2020 shows us that we cannot assume militias will choose to defend the constitution, [because armed civilians are forming militias to suppress the right to free speech and to oppress minorities](https://www.pbs.org/newshour/show/armed-militia-groups-surging-across-nation). 2) The benefit of banning assault rifles would be to reduce the number of lives a mass shooter could take before being stopped. The amount of real suffering that is created from civilian access to assault rifles outweighs the hypothetical value described in #1, which has a very small chance of mattering.
 
 
 
