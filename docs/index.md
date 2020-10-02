@@ -110,7 +110,7 @@ We support drastic measures to mitigate the risks of climate change due to human
 
 As an example, when Trump pulled out of the Paris agreement, he pointed to the fact that he was saving [$2bil in taxpayer money to be spent over the next two years](https://www.washingtonpost.com/news/energy-environment/wp/2017/01/17/days-before-trumps-inauguration-state-dept-sends-500-million-to-united-nations-climate-fund/). To put this into perspective, [federal revenue in 2019 was $3.5trillion](https://en.wikipedia.org/wiki/2019_United_States_federal_budget), while the [average income in the US in 2019 was $48,000](https://www.thestreet.com/personal-finance/average-income-in-us-14852178). This means saving a billion dollars a year for the federal government is the equivalent of the average person saving $14.
 
-Nevertheless, we recognize that in order to address climate change, the US will need to make a much larger commitment than what was planned for the Paris agreement. This need will be met by implementing our plans for [energy](#energy)
+Nevertheless, we recognize that in order to address climate change, the US will need to make a much larger commitment than what was planned for the Paris agreement. This need will be met by implementing our plans for [energy](#energy).
 
 #### Plastics
 
